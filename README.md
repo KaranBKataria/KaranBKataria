@@ -6,4 +6,4 @@ I am currently a postgraduate student at the University of Warwick studying Scie
 
 👉 Feel free to connect and reach out to me on LinkedIn, I love discussing nerdy topics with others!
 
-🗨️ My favourite quote: "* *We are all merely explorers of infinity, in the pursuit of absolute perfection.	* *"
+🗨️ My favourite quote: "__We are all merely explorers of infinity, in the pursuit of absolute perfection.__"

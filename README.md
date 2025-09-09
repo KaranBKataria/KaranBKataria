@@ -1,6 +1,6 @@
 ### Hi, I'm Karan, and welcome to my GitHub profile 👋
 
-I am currently a postgraduate student at the University of Warwick, studying scientific computing, machine learning, and predictive modelling, with a background in mathematics and statistics. Before pursuing my postgraduate degree, I worked as a Data Scientist/Analyst within competition litigation, helping quantify claims. I am fascinated by the fusion of applied machine/deep learning, low-level programming, high-performance computing and computational statistics. I am eager to leverage HPC to apply machine/deep learning methodologies to improve existing systems and overcome large-scale challenges across diverse domains.
+I am currently a postgraduate student at the University of Warwick, studying scientific computing, machine learning, and predictive modelling, with a background in mathematics and statistics. Before pursuing my postgraduate degree, I worked as a Data Analyst/Scientist within competition litigation consultancy, helping quantify claims. I am fascinated by the fusion of machine learning, high-performance scientific computing and low-level programming. I am particularly interested in the confluence of machine learning and dynamical systems.
 
 💻 I love programming in Python, C, C++, SQL, R and Bash. I am also learning x86-64 Assembly (AT&T syntax) to gain a deeper understanding of low-level programming for fun.
 

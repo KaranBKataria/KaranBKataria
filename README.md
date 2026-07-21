@@ -6,7 +6,7 @@ I'm currently a Data Scientist working at the intersection of applied mathematic
 
 💻 Although Python was the first programming language I learnt, my favourite language is C++ (aside from the segfaults and the UAC rules!).
 
-🧮 Functional analysis, measure theory, and linear algebra are my loves for pure mathematics; scientific machine learning, numerical analysis and dynamical systems for applied.
+🧮 Functional analysis, measure theory, and linear algebra are my loves for pure mathematics; scientific machine learning, numerical analysis and uncertainty quantification for applied.
 
 💽 I'm not a fan of black boxes; I love learning about low-level programming, computer architecture, and operating systems to build performant, portable, and robust numerical codebases.
 
